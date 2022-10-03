@@ -39,3 +39,5 @@ __Gillispie, G.J., Han, A., Uzun-Per, M., Fisher, J., Mikos, A. G., Niazi M.K.K.
 }
 
 These codes are for our artifact dataset v2.1. For artifact dataset v1.5, you may reach me via meryemuzunper@gmail.com
+
+If you see ^M characters at the end of lines, please ignore them.
